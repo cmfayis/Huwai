@@ -1,0 +1,602 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    display: flex;
+    justify-content: end;
+    background-color: black;
+    color: #fff;
+    
+    
+}
+.one{
+    /* padding-left:50px; */
+    padding-right: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.logo{
+    margin-top: 20px;
+    margin-left: 62px;
+    margin-right: 200px;
+    margin-bottom: 22px;
+}
+.page2{
+    display: flex;
+    /* background-color: white; */
+    /* width: 100%; */
+    
+}
+.type{
+    display: flex;
+}
+.two{
+    padding-right: 37px;
+    margin-top: 27px;
+    font-size: 15.7px;
+    color: #333;
+    margin-bottom: 27px;
+    
+}
+.page3{
+    font-size: 17px;
+    line-height: 25px;
+    font-family: sans-serif;
+    text-align: center;
+    color: #333333;
+    margin-top: 70px;
+}
+.main2{
+    margin-left: 124px;
+    margin-top: 70px;
+
+    
+     position: relative;
+    
+}
+.main3{
+    margin-top: 70px;
+    margin-left: 30px;
+}
+.secondpage{
+    display: flex;
+   
+}
+.line{
+    background-color: rgb(190, 67, 67);
+    width: 60px;
+    height: 2px;
+    display: flex;
+    margin-left: 730px;
+    margin-top: 16px;
+}
+.m1{
+    position: absolute;
+    margin-top: 370px;
+    margin-left: 140px;
+    padding-left: 29px;
+    color: #fff;
+    font-size: 16px;
+    font-family: HuaweiSans-Bold, Helvetica, Arial, sans-serif;
+ }
+ .m2{
+    position: absolute;
+    margin-top: 390px;
+    margin-left: 140px;
+    padding-left: 29px;
+    color: #fff;
+    font-size: 25px;
+ }
+ .m3{
+    position: absolute;
+    margin-top: 420px;
+    margin-left: 140px;
+    padding-left: 29px;
+    color: #fff;
+    font-size: 19px;
+ }
+ 
+
+ 
+ .gradient{
+    height: 150px;
+    width: 836px;
+    background-image:linear-gradient(to top, rgba(0, 0, 0, 0.961),transparent 100%);
+    position: absolute;
+    margin-top:-150px;
+    opacity: 0.5;
+ }
+ .m4{
+    position: absolute;
+    margin-top: 340px;
+    margin-left: 990px;
+    padding-left: 29px;
+    color: #fff;
+    font-size: 19px;
+    z-index: 4;
+ }
+ .m5
+ {
+    position: absolute;
+    margin-top: 365px;
+    margin-left: 990px;
+    padding-left: 29px;
+    color: #fff;
+    font-size: 25px;
+    font-weight: bold;
+    z-index: 4;
+ }
+ .m6{
+    position: absolute;
+    margin-top: 395px;
+    margin-left: 990px;
+    padding-left: 29px;
+    color: #fff;
+    font-size: 25px;
+    font-weight: bold;
+    z-index: 4;
+ }
+ .m7{
+    position: absolute;
+    margin-top: 425px;
+    margin-left: 990px;
+    padding-left: 29px;
+    color: #fff;
+    font-size: 19px;
+    z-index: 4;
+   
+ }
+ .gradient1{
+    height :410px;
+    width :413.33px;
+    background-image:linear-gradient(to top, rgba(0, 0, 0, 0.961),transparent 100%);
+    position: absolute;
+    margin-top:-150px;
+    opacity: 0.5;
+    margin-left: 990px;
+    margin-top: 71px;
+    z-index: 2;
+ }
+ .main4{
+    margin-left: 124px;
+    margin-top: 23px;
+ }
+ .thirdpage{
+    display: flex;
+ }
+ .main5{
+    margin-left: 30px;
+    margin-top: 23px;
+ }
+ .main6{
+    margin-left: 124px;
+    margin-top: 26px;
+ }
+ .fourthpage{
+    display: flex;
+}
+.main7{
+    margin-top: 25px;
+    margin-left: 30px;
+}
+.main8{
+    margin-top: 25px;
+    margin-left: 30px;
+}
+.main9{
+    margin-top: 100px;
+}
+.event{
+    font-size: 17px;
+    line-height: 25px;
+    font-family: sans-serif;
+    text-align: center;
+    color: #333333;
+    margin-top: 70px;
+}
+.line1{
+    background-color: rgb(190, 67, 67);
+    width: 70px;
+    height: 1.5px;
+    display: flex;
+    margin-left: 720px;
+    margin-top: 16px;
+    margin-bottom: 60px;
+}
+.main10{
+    margin-left: 124px;
+}
+.sixthpage{
+    display: flex;
+    position: relative;
+}
+.main11{
+    margin-left: 30px;
+}
+.main12{
+    background-color: #f2f2f2;
+    font-size: 17px;
+    line-height: 28px;
+    font-family: FONT-FAMILY
+    HuaweiSans-Bold, Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    margin-left: 30px;
+    padding: 25px 25px 0px 25px;
+    
+}
+.nice{
+    color:rgb(79, 75, 75) ;
+    font-weight: normal;
+}
+.nice2{
+    color: rgb(160, 156, 156);
+    font-weight: bold;
+}
+.main13{
+    position: absolute;
+    background-color:#f2f2f2 ;
+    margin-left: 124px;
+    margin-top: 240px;
+    background-size: 240px;
+    padding: 30px;
+}
+.f1{
+    font-size: 17px;
+    line-height: 28px;
+    color: #333333;
+    font-weight: bold;
+    padding-bottom: 12px;
+}
+.f2{
+    font-size: 16px;
+    line-height: 22px;
+    color: #333333;
+    padding-bottom: 12px;
+}
+.f3{
+    font-size: 17px;
+    line-height: 24px;
+    color: #666666;
+    padding-right: 8px;
+    padding-bottom: 24px;
+}.main14{
+    position: absolute;
+    background-color:#f2f2f2 ;
+    margin-left: 558px;
+    margin-top: 240px;
+    background-size: 240px;
+    padding: 36.5px 36.5px 24px 36.5px;
+}
+.seventh {
+    text-align: center;
+    margin-top: 50px;
+    padding-bottom: 70px;
+  
+}
+.button{
+    font-size: 17px;
+    line-height: 25px;
+    padding: 3px 30px 3px 30px;
+    margin-left: 15px;
+    margin-right: 15px;
+    background-color: #c7000b;
+
+}
+.footbar{
+    background-color: #f2f2f2;
+    width: 100%;
+    height: 590px;
+    position: relative;
+}
+.f4{
+    font-size: 15px;
+    line-height: 24px;
+    margin-left: 124px;
+    padding-top:  40px;
+    color: #595757;
+    padding-bottom: 20px;
+    position: absolute;
+    
+    
+}
+.footbar hr{
+    width: 83%;
+    margin-left:124px ;
+    color: #333333;
+    position: absolute;
+    margin-top: 80px;
+    
+}
+.search{
+    position: absolute;
+    margin-top: 27px;
+    margin-left: 910px;   
+}
+input[type=search]{
+    width: 475px;
+    height: 45px;
+    padding: 5px 5px 2px 5px;
+}
+input::placeholder{
+    font-size: 20px;
+}
+.first{
+    margin-left: 124px;
+    padding-top: 133px;
+}
+.head{
+    font-size: 17px;
+    line-height: 25px;
+    font-weight: bold;
+}
+.space li{
+    padding-top: 30px;
+    list-style: none;
+
+}
+.two2{
+    position: absolute;
+    margin-top: -363.5px;
+    margin-left: 380px;
+}
+
+
+
+.three3{
+    position: absolute;
+    margin-top: -363.5px;
+    margin-left: 640px;
+}
+
+.four4{
+    position: absolute;
+    margin-top: -363.5px;
+    margin-left: 920px;
+}
+.five5{
+    position: absolute;
+    margin-top: -363.5px;
+    margin-left: 1170px;  
+}
+  .lastline{ 
+    
+    margin-left:124px ;
+    color: #333333;
+    position: absolute;
+    margin-top: 10px;
+    position: absolute;
+    width: 150px;
+    height: 50px;
+     }
+
+     .s1{
+        position: absolute;
+        margin-top: 295px;
+        margin-left: 140px;
+        padding-left: 29px;
+        color: #fff;
+        font-size: 16px;
+        font-family: HuaweiSans-Bold, Helvetica, Arial, sans-serif;
+
+     }
+     .s2{
+        position: absolute;
+        margin-top: 320px;
+        margin-left: 140px;
+        padding-left: 29px;
+        color: #fff;
+        font-size: 25px;
+        font-weight: bold;
+     }
+     .s3{
+        position: absolute;
+        margin-top: 350px;
+        margin-left: 140px;
+        padding-left: 29px;
+        color: #fff;
+        font-size: 25px;
+        font-weight: bold;
+     }
+     .s4{
+        position: absolute;
+        margin-top: 380px;
+        margin-left: 140px;
+        padding-left: 29px;
+        color: #fff;
+        font-size: 25px;
+        font-weight: bold;
+     }
+     .s5{
+        position: absolute;
+        margin-top: 320Px;
+        margin-left: 590px;
+        padding-left: 29px;
+        color: #fff;
+        font-size: 19px;
+        z-index: 10;
+     }
+     .s6{
+        position: absolute;
+        margin-top: 350Px;
+        margin-left: 590px;
+        padding-left: 29px;
+        color: #fff;
+        font-size: 25px;
+        z-index: 10;
+        font-weight: bold;
+     }
+     .s7{
+        position: absolute;
+        margin-top: 380Px;
+        margin-left: 590px;
+        padding-left: 29px;
+        color: #fff;
+        font-size: 25px;
+        z-index: 10;
+        font-weight: bold;
+     }
+     .gradient2{
+        height: 150px;
+        width: 434px;
+        background-image:linear-gradient(to top, rgba(0, 0, 0, 0.961),transparent 100%);
+        position: absolute;
+        margin-top:277px;
+        opacity: 0.5;
+        margin-left: 124px;
+     }
+     .gradient3{
+        height: 150px;
+        width: 815px;
+        background-image:linear-gradient(to top, rgba(0, 0, 0, 0.961),transparent 100%);
+        position: absolute;
+        margin-top:277px;
+        opacity: 0.5;
+        margin-left: 588px;
+     }
+     .q1{
+        position: absolute;
+        margin-top: 180px;
+        margin-left: 140px;
+        padding-left: 29px;
+        color: #fff;
+        font-size: 16px;
+        font-family: HuaweiSans-Bold, Helvetica, Arial, sans-serif;
+
+     }
+     .q2{
+        position: absolute;
+        margin-top: 205Px;
+        margin-left: 140px;
+        padding-left: 29px;
+        color: #fff;
+        font-size: 25px;
+        z-index: 10;
+        font-weight: bold;
+        /* padding-top: 20px; */
+     }
+     .q3{
+        position: absolute;
+        margin-top: 235Px;
+        margin-left: 140px;
+        padding-left: 29px;
+        color: #fff;
+        font-size: 25px;
+        z-index: 10;
+        font-weight: bold;
+     }
+     .q4{
+        position: absolute;
+        margin-top: 265Px;
+        margin-left: 140px;
+        padding-left: 29px;
+        color: #fff;
+        font-size: 25px;
+        z-index: 10;
+        font-weight: bold;
+     }
+     .gradient4{
+        height: 150px;
+        width: 434px;
+        background-image:linear-gradient(to top, rgba(0, 0, 0, 0.961),transparent 100%);
+        position: absolute;
+        margin-top:159px;
+        opacity: 0.5;
+        margin-left: 124px;
+     }
+     .q5{
+        position: absolute;
+        margin-top: 215px;
+        margin-left: 590px;
+        padding-left: 29px;
+        color: #fff;
+        font-size: 16px;
+        font-family: HuaweiSans-Bold, Helvetica, Arial, sans-serif;
+
+     }
+     .q6{
+        position: absolute;
+        margin-top: 240Px;
+        margin-left: 590px;
+        padding-left: 29px;
+        color: #fff;
+        font-size: 25px;
+        z-index: 10;
+        font-weight: bold;
+     }
+     .q7{
+        position: absolute;
+        margin-top: 270Px;
+        margin-left: 590px;
+        padding-left: 29px;
+        color: #fff;
+        font-size: 25px;
+        z-index: 10;
+        font-weight: bold;
+     }
+     .q8{
+        position: absolute;
+        margin-top: 180px;
+        margin-left: 1015px;
+        padding-left: 29px;
+        color: #fff;
+        font-size: 16px;
+        font-family: HuaweiSans-Bold, Helvetica, Arial, sans-serif;
+     }
+     .q9{
+        position: absolute;
+        margin-top: 205Px;
+        margin-left: 1015px;
+        padding-left: 29px;
+        color: #fff;
+        font-size: 25px;
+        z-index: 10;
+        font-weight: bold;
+     }
+     .q10{
+        position: absolute;
+        margin-top: 235Px;
+        margin-left: 1015px;
+        padding-left: 29px;
+        color: #fff;
+        font-size: 25px;
+        z-index: 10;
+        font-weight: bold;
+     }
+     .q11{
+        position: absolute;
+        margin-top: 265Px;
+        margin-left: 1015px;
+        padding-left: 29px;
+        color: #fff;
+        font-size: 25px;
+        z-index: 10;
+        font-weight: bold;
+     }
+     .gradient5{
+        height: 150px;
+        width: 393px;
+        background-image:linear-gradient(to top, rgba(0, 0, 0, 0.961),transparent 100%);
+        position: absolute;
+        margin-top:159px;
+        opacity: 0.5;
+        margin-left: 588px;
+     }
+     .gradient6{
+        height: 150px;
+        width: 393px;
+        background-image:linear-gradient(to top, rgba(0, 0, 0, 0.961),transparent 100%);
+        position: absolute;
+        margin-top:159px;
+        opacity: 0.5;
+        margin-left: 1010px;
+     }
+     
+    
+     
+
+ 
+
+
+  
